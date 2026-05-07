@@ -1,0 +1,14 @@
+# missi-user 16 BP2A.250605.031.A3 16OS3.1.260421.173126077.QCPEGL.S release-keys
+- manufacturer: xiaomi
+- platform: parrot
+- codename: kunzite
+- flavor: missi-user
+- release: 16
+- id: BP2A.250605.031.A3
+- incremental: 16OS3.1.260421.173126077.QCPEGL.S
+- tags: release-keys
+- fingerprint: Redmi/kunzite_x_in/kunzite:15/AQ3A.250129.001/OS3.0.301.0.WPQMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-16-BP2A.250605.031.A3-16OS3.1.260421.173126077.QCPEGL.S-release-keys
+- repo: redmi_kunzite_dump
